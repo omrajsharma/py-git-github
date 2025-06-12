@@ -12,3 +12,8 @@ def mul(a, b):
     print(a * b)
 
 mul(a, b)
+
+def complexFun(a, b):
+    print(a * b + a - b ** b)  # complex or experiment
+
+complexFun(a, b)
